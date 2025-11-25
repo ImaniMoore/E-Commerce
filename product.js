@@ -2,7 +2,7 @@ let data;
 
 async function fetchData() {
   try {
-    const response = await fetch("./index.json");
+    const response = await fetch("index.json");
     data = await response.json();
     console.log(data);
   } catch (error) {
