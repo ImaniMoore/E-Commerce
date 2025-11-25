@@ -1,0 +1,78 @@
+{
+  "Products": [
+    {
+      "name": "2015 INFINITI Q50 3.7 Premium AWD",
+      "price": "$9,995",
+      "description": { "VIN": "JN1BV7AR5FM401957", "Mileage": 84665 },
+      "image": "../images/infiniti.png"
+    },
+    {
+      "name": "2019 Toyota Camry SE FWD",
+      "price": "$12,995",
+      "description": { "VIN": "4T1B11HK2KU770075", "Mileage": 153095 },
+      "image": "../images/2019camry.jpeg"
+    },
+    {
+      "name": "2018 Toyota Camry LE",
+      "price": "$15,550",
+      "description": { "VIN": "JTNB11HK8J3007417", "Mileage": 111035 },
+      "image": "../images/camry.png"
+    },
+    {
+      "name": "2018 Dodge Charger R/T RWD",
+      "price": "$17,995",
+      "description": { "VIN": "2C3CDXCT0JH122762", "Mileage": 120155 },
+      "image": "../images/charger.png"
+    },
+    {
+      "name": "2015 Subaru WRX Premium",
+      "price": "$8,995",
+      "description": { "VIN": "JF1VA1D6XF9833186", "Mileage": 182342 },
+      "image": "../images/subaru.png"
+    },
+    {
+      "name": "2011 Lexus LS 460 AWD",
+      "price": "$10,900",
+      "description": { "VIN": "JTHCL5EF7B5011493", "Mileage": 157240 },
+      "image": "../images/lexus.png"
+    },
+    {
+      "name": "2015 Ford Mustang EcoBoost Premium Coupe RWD",
+      "price": "$10,900",
+      "description": { "VIN": "1FA6P8TH1F5309532", "Mileage": 150259 },
+      "image": "../images/mustang.png"
+    },
+    {
+      "name": "2015 Jeep Compass Sport",
+      "price": "$7,995",
+      "description": { "VIN": "1C4NJCBB1FD297412", "Mileage": 109899 },
+      "image": "../images/jeep.png"
+    },
+    {
+      "name": "2006 Hummer H3 4dr SUV 4WD",
+      "price": "$7,995",
+      "description": { "VIN": "5GTDN136468286944", "Mileage": 161798 },
+      "image": "../images/hummer.png"
+    },
+    {
+      "name": "2015 Kia Optima Ex",
+      "price": "$8,995",
+      "description": { "VIN": "5XXGN4A7XFG413369", "Mileage": 91099 },
+      "image": "../images/kia.png"
+    },
+    {
+      "name": "2017 Dodge Challenger SXT RWD",
+      "price": "$12,594",
+      "description": { "VIN": "2C3CDZAG7HH594115", "Mileage": 122570 },
+      "image": "../images/challenger.jpeg"
+    },
+    {
+      "name": "2017 Volkswagen Golf GTI 2.0T Autobahn 4-Door FWD",
+      "price": "$15,200",
+      "description": { "VIN": "3VW547AU3HM051292", "Mileage": 67843 },
+      "image": "../images/golfgti.jpeg"
+    },
+
+    {}
+  ]
+}
